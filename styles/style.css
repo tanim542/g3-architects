@@ -229,7 +229,8 @@ main>section {
 }
 
 .footer{
-    width: 100%;
+    
+    max-width: 1440px;
     text-align: center;
     padding: 20px 350px;
     font-size: 1.2rem;
